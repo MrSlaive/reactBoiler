@@ -3,7 +3,11 @@
 ## used Components
 
 - https://material-ui.com/getting-started/installation/
+- https://material-table.com/#/docs/install
 - https://www.npmjs.com/package/axios
+- https://www.npmjs.com/package/react-router-dom
+- https://www.npmjs.com/package/node-sass
+
 
 
 
